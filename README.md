@@ -20,3 +20,4 @@ Some examples I just made up:
 | Genevia Technologies | Jane Pulman | https://geneviatechnologies.com |
 | BioTeam | Chris Dagdigian | [BioTeam](https://bioteam.net) is a high-performance consulting practice. We are dedicated to delivering objective, technology agnostic solutions to life science researchers | #HPC
 |Diamond Age Data Science | Eleanor Howe | [Diamond Age Data Science](https://diamondage.com) partners with fast-moving biotech and pharmaceutical companies to drive innovation through bioinformatics.
+| DNAnexus | | https://www.dnanexus.com/
