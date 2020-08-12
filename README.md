@@ -21,3 +21,4 @@ Some examples I just made up:
 | BioTeam | [Chris Dagdigian](https://twitter.com/chris_dag) | [BioTeam](https://bioteam.net) is a high-performance consulting practice. We are dedicated to delivering objective, technology agnostic solutions to life science researchers | #HPC
 |Diamond Age Data Science | [Eleanor Howe](https://twitter.com/eleanorahowe) | [Diamond Age Data Science](https://diamondage.com) partners with fast-moving biotech and pharmaceutical companies to drive innovation through bioinformatics.
 | DNAnexus | | https://www.dnanexus.com/
+| Qiagen | | Partnering with [QIAGEN](https://digitalinsights.qiagen.com/services-overview/qiagen-discovery-bioinformatics-services/) Digital Insights Discovery Bioinformatics Services is a reliable and convenient way to extend your in-house resources with expertise and perfectly tailored bioinformatics services that ensure high-quality results. 
