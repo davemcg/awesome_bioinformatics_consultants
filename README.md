@@ -18,4 +18,4 @@ Some examples I just made up:
 | Fulcrum Genomics | Nils Homer | We provide specialized [bioinformatic services](https://www.fulcrumgenomics.com) to advance your technology and the understanding of human disease. |
 | Kevin Blighe   | Kevin Blighe   | [Computer scientist](https://www.linkedin.com/in/clinicalbioinformatics/) who transitioned early into biological sciences. 8 years experience in translational research in private, public, and clinical settings (~11, including PhD).
 | Genevia Technologies | Jane Pulman | https://geneviatechnologies.com |
-| BioTeam | Chris Dagdigian | https://bioteam.net | #HPC
+| BioTeam | Chris Dagdigian | [BioTeam](https://bioteam.net) is a high-performance consulting practice. We are dedicated to delivering objective, technology agnostic solutions to life science researchers | #HPC
