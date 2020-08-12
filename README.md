@@ -14,7 +14,7 @@ Some examples I just made up:
     - #shiny
 
 | Company        | People        | Blurb | Keywords  
-| ------------- |:-------------:| ----- | ------- |
+| :-------------: |:-------------:| ----- | ------- |
 | Fulcrum Genomics | Nils Homer | We provide specialized [bioinformatic services](https://www.fulcrumgenomics.com) to advance your technology and the understanding of human disease. |
 | Kevin Blighe   | Kevin Blighe   | [Computer scientist](https://www.linkedin.com/in/clinicalbioinformatics/) who transitioned early into biological sciences. 8 years experience in translational research in private, public, and clinical settings (~11, including PhD).
 | Genevia Technologies | Jane Pulman | https://geneviatechnologies.com |
