@@ -1,5 +1,5 @@
 # Awesome Bioinformatics Consultants
-Lightly curated list of bioinformatics consultants/companies inspired by the original (?) [Sean Davis single cell resource](https://github.com/seandavi/awesome-single-cell)
+Unordered, lightly curated list of bioinformatics consultants/companies inspired by the original (?) [Sean Davis single cell resource](https://github.com/seandavi/awesome-single-cell)
 
 The goal is to provide a list of people/companies to hire if you need a bioinformatics task accomplished.
 
@@ -18,3 +18,4 @@ Some examples I just made up:
 | Fulcrum Genomics | Nils Homer | We provide specialized [bioinformatic services](https://www.fulcrumgenomics.com) to advance your technology and the understanding of human disease. |
 | Kevin Blighe   | Kevin Blighe   | [Computer scientist](https://www.linkedin.com/in/clinicalbioinformatics/) who transitioned early into biological sciences. 8 years experience in translational research in private, public, and clinical settings (~11, including PhD).
 | Genevia Technologies | Jane Pulman | https://geneviatechnologies.com |
+| BioTeam | Chris Dagdigian | https://bioteam.net | #HPC
