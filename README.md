@@ -19,3 +19,4 @@ Some examples I just made up:
 | Kevin Blighe   | Kevin Blighe   | [Computer scientist](https://www.linkedin.com/in/clinicalbioinformatics/) who transitioned early into biological sciences. 8 years experience in translational research in private, public, and clinical settings (~11, including PhD).
 | Genevia Technologies | Jane Pulman | https://geneviatechnologies.com |
 | BioTeam | Chris Dagdigian | [BioTeam](https://bioteam.net) is a high-performance consulting practice. We are dedicated to delivering objective, technology agnostic solutions to life science researchers | #HPC
+|Diamond Age Data Science | Eleanor Howe | [Diamond Age Data Science](https://diamondage.com) partners with fast-moving biotech and pharmaceutical companies to drive innovation through bioinformatics.
