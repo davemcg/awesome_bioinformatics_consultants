@@ -3,7 +3,9 @@ Unordered, lightly curated list of bioinformatics consultants/companies inspired
 
 The goal is to provide a list of people/companies to hire if you need a bioinformatics task accomplished.
 
-Pull requests welcome! I haven't fully fleshed out what "keywords" are but I'd like it to be a field where you could (#hashtag-like) *briefly* (no more than 3?) explain your focus. 
+Pull requests welcome! 
+
+If you are making a PR, I think it would be useful if you could provide some keywords (#hashtag-like) to *briefly* (no more than 3?) explain your focus. 
 
 Some examples I just made up:
 
