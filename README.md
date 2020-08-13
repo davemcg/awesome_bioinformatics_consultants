@@ -27,6 +27,7 @@ Some examples I just made up:
 |Diamond Age Data Science | [Eleanor Howe][eleanor-howe-link] | [Diamond Age Data Science][diamond-age-link] partners with fast-moving biotech and pharmaceutical companies to drive innovation through bioinformatics.
 | DNAnexus | | [dnanexus.com][dnanexus-link]
 | Qiagen | | Partnering with [QIAGEN][qiagen-link] Digital Insights Discovery Bioinformatics Services is a reliable and convenient way to extend your in-house resources with expertise and perfectly tailored bioinformatics services that ensure high-quality results. 
+| Omiqa | | [We][omiqa-link] combine a broad library of curated pipelines, customized solutions and deep knowledge of biology and biochemistry to help our clients gain the most out of their DNA- or RNA-seq datasets. |
 
 [nils-homer-link]:       https://www.linkedin.com/in/nilshomer/
 [tim-fennell-link]:      https://www.linkedin.com/in/tfenne/
@@ -41,3 +42,5 @@ Some examples I just made up:
 [diamond-age-link]:      https://diamondage.com
 [dnanexus-link]:         https://www.dnanexus.com/
 [qiagen-link]:           https://digitalinsights.qiagen.com/services-overview/qiagen-discovery-bioinformatics-services/
+[omiqa-link]:            https://omiqa.bio
+
